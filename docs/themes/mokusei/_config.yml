@@ -1,7 +1,7 @@
 # 站点设置
 name: mokusei  
 description: This is a hexo theme 
-favicon: img/favicon.ico 
+favicon: /imgs/favicon.ico 
 banner: /imgs/head.jpg
 rss: 
 

@@ -1,9 +1,12 @@
 ---
-title: first_article
+title: 我的第一篇文章
 date: 2024-07-13 16:24:30
-tags:
+tags: ['博客']
 ---
-# MY FIRST INDEPENDENT ARTICLE
+这篇文章主要记录一下博客的生成以及一开始我的个人理解，创建个人博客的念头已经很久了，直到上周才付诸实践，其中很大一部分是畏难情绪在作祟，因此简要介绍一下博客的来龙去脉，在实操方面，感谢posa酱的精心分享~
+# 博客的概念
+
+
 > TEST FOR REF
 ``` python
 a=1

@@ -7,8 +7,8 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: yiding 
+language: zh-CN 
 timezone: ''
 
 # URL
@@ -86,7 +86,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: mokusei
+theme: fluid 
 
 ##under this is mokusei configuration  
 highlight:
